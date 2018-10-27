@@ -8,6 +8,7 @@ name = "pypi"
 [packages]
 
 pytest = "*"
+"8467927" = {path = "./tasks_proj", editable = true}
 
 
 [dev-packages]
